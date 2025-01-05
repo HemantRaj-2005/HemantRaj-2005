@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main  # Trigger the action on pushes to the main branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+    steps:
+      - uses: actions/checkout@v3  # Check out the repository
+      - uses: Platane/snk@v2  # Use the snake animation generator
+        with:
+          github_user_name: HemantRaj-2005  # Replace with your GitHub username
+          outputs: dist/snake.svg
+
+      - name: Upload Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
