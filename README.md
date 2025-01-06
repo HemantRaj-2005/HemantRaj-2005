@@ -73,12 +73,12 @@
 
 ### 📊 **GitHub Stats:**
 
-<span align="left"> 
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" /> 
-</span>
-<span align="right">
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=HemantRaj-2005&theme=radical&hide_border=true&cache-bust=1" alt="GitHub Streak" />
-</span>
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantRaj-2005&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" /> 
