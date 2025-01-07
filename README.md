@@ -77,7 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" /> 
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HemantRaj-2005&theme=radical&hide_border=true&cache-bust=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HemantRaj-2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
 <p align="center"> 
