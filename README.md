@@ -66,7 +66,7 @@
 
 ### ⚙️ **Languages & Tools:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,python,git,github,tailwind,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vercel,vite,nodejs,express,mongodb,c,cpp,python,git,github,tailwind,vscode,firebase,java,tensorflow" alt="Languages and Tools" />
 </p>
 
 ---
@@ -76,12 +76,13 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" /> 
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HemantRaj-2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" /> 
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantRaj-2005&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantRaj-2005&theme=highcontrast&hide_border=true" alt="GitHb Streak" />
 </p>
 
 ---
@@ -106,3 +107,8 @@
 </p>
 
 ---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=HemantRaj-2005&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributions" />
+</p>
