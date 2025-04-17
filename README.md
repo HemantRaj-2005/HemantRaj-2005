@@ -87,6 +87,13 @@
 
 ---
 
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemantRaj-2005&theme=github_dark" />
+</p>
+
+---
+
 ### 🐍 **Contribution Snake:**
 <p align="center">
   <img src="https://github.com/HemantRaj-2005/HemantRaj-2005/raw/output/snake.svg" alt="Snake Animation" />
@@ -107,8 +114,3 @@
 </p>
 
 ---
-
-### 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=HemantRaj-2005&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributions" />
-</p>
