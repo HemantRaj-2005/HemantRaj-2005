@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemantRaj-2005&label=PROFILE%20VIEWS&color=FF4500&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Daily%20Caffeine%20Intake-300mg-orange" alt="Caffeine" />
   <img src="https://img.shields.io/github/followers/HemantRaj-2005?color=36BCF7&label=Follow%20Me&logo=github&style=for-the-badge" alt="GitHub Followers" width="100" />
   <img src="https://img.shields.io/badge/BUILD%20WITH%20LOVE-❤️-red?style=flat-square" alt="Love Badge" />
   <img src="https://img.shields.io/github/stars/HemantRaj-2005?style=flat-square&color=yellow" alt="Stars Badge" />
@@ -32,13 +33,16 @@
 <div align="center">
 
 📌 **Currently**  
-🔭 Working on: [Social Media App](https://socially-vert.vercel.app) 
-*A Next.js social platform with real-time interactions*
+🔭 Building: [Socially](https://socially-vert.vercel.app) - *"Facebook who?"*  
+🌱 Learning: *How to explain blockchain to my grandma*  
 
-#### 🌱 **Learning Journey**
+#### 🧠 **Brain Contents**
 ```diff
-+ Web Dev: Mastering Advanced React Patterns
-+ AI/ML: Exploring LLMs & Computer Vision
++ 30% C++
++ 25% JavaScript
++ 20% Coffee
++ 15% Memes
++ 10% "Why is this not working?!"
 ```
 
 ### 📬 **Let's Connect**
@@ -54,6 +58,30 @@
 
 
 ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1.2%20million%20lines%20of%20code-blue)
+
+### 🏆 **Achievements & Meme-worthy Moments**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300">
+</div>
+
+| Milestone | Status | Proof |
+|-----------|--------|-------|
+| **"It works on my machine" certificate** | ✅ Awarded | [![Proof](https://img.shields.io/badge/View-Certificate-blue)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7Kn6Z4h0nRH0A/giphy.gif) |
+| **Successfully confused AI with my code** | ✅ 3 times | [![Confusion](https://img.shields.io/badge/See-ChatGPT's_facepalm-yellowgreen)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1h6RvZKM/giphy.gif) |
+| **Fixed production bug at 3AM** | ✅ With sleepy eyes | [![Emergency](https://img.shields.io/badge/View-Hero_Moment-red)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif) |
+| **Created a website that doesn't look like 1999** | ✅ Miracle | [![Website](https://img.shields.io/badge/Visit-Modern_Design-brightgreen)](https://hemantraj-portfolio.netlify.app) |
+| **Survived JavaScript framework fatigue** | ✅ Barely | [![Survivor](https://img.shields.io/badge/Proof-Survivor_Badge-orange)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQY6jqWlEiQ2Q/giphy.gif) |
+
+#### 🎮 **Current Quest Log**
+```diff
++ [x] Learn React (for the 3rd time)
++ [ ] Understand blockchain (estimated: 3024)
+! [ ] Make sense of Web3 memes
+# [ ] Convince VS Code I don't need more extensions
+```
+
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY2V5eW1xY3J5b2V1b2R6NGJ5dXZ5ZzR6cGJ6eHZ0a2VxZ3JwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="200"> <p><em>"When you finally git push --force and nothing breaks"</em></p> </div>
 
 </div>
 
