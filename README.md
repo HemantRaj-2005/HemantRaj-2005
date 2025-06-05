@@ -1,11 +1,15 @@
 <h1 align="center">
-  Welcome to My World! 🌌  
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">  
-  I'm <span style="color:#FF4500; font-weight:bold;">Hemant Raj</span>  
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">  
+  <span style="background: linear-gradient(45deg, #FF4500, #FF8C00, #FFD700); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 8px rgba(255,69,0,0.5); font-weight: 900;">HEMANT RAJ</span>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">  
 </h1>
 
+<h3 align="center" style="color: #36BCF7; text-shadow: 0 0 10px rgba(54,188,247,0.7);">
+  Building Tomorrow's Digital Realities | ECE - MNNIT@2k27 | Web Dev + AI/ML Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=4000&pause=500&color=DC143C&center=true&vCenter=true&width=1000&lines=Building+Technologies;Making+Ideas+Come+to+Life;ECE+Undergrad+&#64+MNNIT+Allahabad'2k27;Web+Dev+and+AI/ML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=console.log(%22Hello%2C+World!%22);while(true)+%7B+code();+innovate();+%7D;const+life+%3D+coffee+%2B+code;AI+%3D+Math+%2B+Magic" alt="Typing Animation" />
 </p>
 
 
@@ -21,53 +25,73 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HemantRaj-2005&theme=onestar&no-frame=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-<img 
-  src="https://i.postimg.cc/Zqn3RzPz/social-media-7.jpg" 
-  alt="Hemant Raj" 
-  align="right" 
-  width="260" 
-  height="260" 
-  style="border-radius:50%; margin-left:20px; border:4px solid #FF5733; box-shadow: 0px 0px 20px rgba(255, 87, 51, 0.8);" 
-/>
+---
+
+### 🚀 **About Me**
+
+<div align="center">
+
+📌 **Currently**  
+🔭 Working on: [Social Media App](https://socially-vert.vercel.app) 
+*A Next.js social platform with real-time interactions*
+
+#### 🌱 **Learning Journey**
+```diff
++ Web Dev: Mastering Advanced React Patterns
++ AI/ML: Exploring LLMs & Computer Vision
+```
+
+### 📬 **Let's Connect**
+
+| Platform       | Link |
+|----------------|------|
+| **Portfolio**  | [hemantraj-portfolio.netlify.app](https://hemantraj-portfolio.netlify.app) |
+| **Email**      | [![Email](https://img.shields.io/badge/Reach_Out-hemantraj2214@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:hemantraj2214@gmail.com) |
+
+### ⚡ **Geeky Trivia**
+
+> "I once solved a bug in my dream 💤 → woke up at 3AM to commit 🚀"
+
+
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1.2%20million%20lines%20of%20code-blue)
+
+</div>
 
 ---
 
-### 🚀 **About Me:**
+## 🌍 Connect with Me
 
-- 🔭 I’m currently working on: [Social Media App](https://socially-vert.vercel.app)  
-- 🌱 I’m exploring **Web Dev** and diving deep into **AI/ML**  
-- 💻 All my projects: [Portfolio](https://hemantraj-portfolio.netlify.app)  
-- 💬 Ask me about: **React | JavaScript | AI Concepts**  
-- 📫 Reach me: **[hemantraj2214@gmail.com](mailto:hemantraj2214@gmail.com)**  
-- ⚡ Fun fact: **I debug in dreams 🛠️ and code in reality!**
-
----
-
-### 🔗 **Connect with Me:**
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemantrajmnnit20234070" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hemantraj-mnnit" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin: 0 20px"/>
   </a>
-  <a href="https://www.instagram.com/too_lazy_to_raj" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/too_lazy_to_raj" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" style="margin: 0 20px"/>
   </a>
-  <a href="https://www.youtube.com/@HRajMNNIT" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/HemantRaj-2005" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 20px"/>
   </a>
-  <a href="https://github.com/HemantRaj-2005" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/23257401/hemant-raj" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <a href="https://stackoverflow.com/users/23257401/hemant-raj" target="_blank" title="Stack Overflow">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="40" style="margin: 0 20px"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ **Languages & Tools:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vercel,vite,nodejs,express,mongodb,c,cpp,python,git,github,tailwind,vscode,firebase,java,tensorflow" alt="Languages and Tools" />
-</p>
+<div align="center">
+
+## ✨ Tech Stack 
+
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next" title="HTML, CSS, JavaScript, TypeScript, Tailwind, React, Next.js"/> |
+| **⚙️ Backend**  | <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,graphql" title="Node.js, Express, Python, Flask, GraphQL"/> |
+| **🗃️ Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" title="MongoDB, PostgreSQL, MySQL, Firebase"/> |
+| **🛠️ DevOps**  | <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp" title="Git, GitHub, Docker, Kubernetes, AWS, Google Cloud"/> |
+| **🤖 AI/ML**   | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" title="TensorFlow, PyTorch, OpenCV"/> |
+| **💻 Tools**    | <img src="https://skillicons.dev/icons?i=vscode,figma,postman" title="VS Code, Figma, Postman"/> |
+
+</div>
 
 ---
 
@@ -90,6 +114,9 @@
 ### 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemantRaj-2005&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemantRaj-2005&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
