@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">  
   <span style="background: linear-gradient(45deg, #FF4500, #FF8C00, #FFD700); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 8px rgba(255,69,0,0.5); font-weight: 900;">HEMANT RAJ</span>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozaWJlMXNxdDVtejVhNGxkb3lwbGI2MjVha29xbzJ5Yjd0NG0zaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/heIX5HfWgEYlW/giphy.gif" width="100">  
 </h1>
 
 <h3 align="center" style="color: #36BCF7; text-shadow: 0 0 10px rgba(54,188,247,0.7);">
