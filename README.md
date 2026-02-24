@@ -4,8 +4,8 @@
 -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
-  <span style="color:gold; text-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700;">✨ Hemant Raj ✨</span>
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="100">
+  <span style="color:gold; text-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700;"> Hemant Raj</span>
+  <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="100">
 </h1>
 
 <p align="center">
@@ -133,10 +133,10 @@ How to explain blockchain to my grandma (wish me luck).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-clone-sage.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-clone-sage.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-clone-sage.vercel.app/api/top-langs/?username=HemantRaj-2005&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-clone-sage.vercel.app/api/top-langs?username=HemantRaj-2005&theme=radical&layout=compact&langs_count=20&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantRaj-2005&theme=radical&hide_border=true" width="70%"/>
