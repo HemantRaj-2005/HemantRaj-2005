@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HemantRaj-2005&theme=onestar&no-frame=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=HemantRaj-2005&theme=onestar&no-frame=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -133,8 +133,10 @@ How to explain blockchain to my grandma (wish me luck).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantRaj-2005&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-clone-sage.vercel.app/api?username=HemantRaj-2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-clone-sage.vercel.app/api/top-langs/?username=HemantRaj-2005&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantRaj-2005&theme=radical&hide_border=true" width="70%"/>
