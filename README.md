@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=HemantRaj-2005&theme=onestar&no-frame=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=HemantRaj-2005&theme=onestar&no-frame=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
 ---
